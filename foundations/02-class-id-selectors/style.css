@@ -1,0 +1,19 @@
+.p {
+  background: red;
+  color: white;
+}
+
+#a {
+  color: blue;
+  font-size: 24px;
+}
+
+.p2 {
+  font-size: 22px;
+}
+
+#b {
+  background: greenyellow;
+  font-size: 32px;
+  font-weight: bold;
+}
